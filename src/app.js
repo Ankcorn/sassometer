@@ -25,7 +25,7 @@ class App extends Component {
             this.setState({
                 clicked: false
             })
-        }, 1000);
+        }, 1100);
     }
 
     render() {
